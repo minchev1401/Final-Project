@@ -19,10 +19,10 @@ Personal Finance Manager.
      9. Финансови съвети.
      10. Затвори.(изход от приложението)
 
-5.Създаден е файл 'requirements.txt' със команда 'pip freeze > requirements.txt'.
-6.Може да бъде инсталиран с команда 'pip install -r requirements.txt'.
-7.Файла 'test_All.py' фключва unit tests с 73% code coverage.
-8.Тестовете могат да се стартират чрез командата 'coverage run -m unittest discover', след това 'coverage report'.
+Създаден е файл 'requirements.txt' със команда 'pip freeze > requirements.txt'.
+Може да бъде инсталиран с команда 'pip install -r requirements.txt'.
+Файла 'test_All.py' фключва unit tests с 73% code coverage.
+Тестовете могат да се стартират чрез командата 'coverage run -m unittest discover', след това 'coverage report'.
    
                                          
   
