@@ -1,0 +1,26 @@
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+contourpy==1.2.0
+coverage @ file:///D:/bld/coverage_1710462906345/work
+cycler==0.12.1
+exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1704921103267/work
+fonttools==4.50.0
+greenlet==3.0.3
+iniconfig @ file:///home/conda/feedstock_root/build_artifacts/iniconfig_1673103042956/work
+kiwisolver==1.4.5
+matplotlib==3.8.3
+numpy==1.26.4
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1710075952259/work
+pandas==2.2.1
+pillow==10.2.0
+pluggy @ file:///home/conda/feedstock_root/build_artifacts/pluggy_1706116770704/work
+pyparsing==3.1.2
+pytest @ file:///home/conda/feedstock_root/build_artifacts/pytest_1709992573517/work
+python-dateutil==2.9.0.post0
+pytz==2024.1
+setuptools==69.2.0
+six==1.16.0
+SQLAlchemy==2.0.28
+tomli @ file:///home/conda/feedstock_root/build_artifacts/tomli_1644342247877/work
+typing_extensions==4.10.0
+tzdata==2024.1
+wheel==0.42.0
