@@ -2,14 +2,8 @@ from datetime import datetime
 from sqlalchemy import create_engine, Column, Integer, String, Date, Float
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.ext.declarative import declarative_base
-from datetime import datetime
-from sqlalchemy import Column, Integer
 from sqlalchemy.orm import declarative_base
-from sqlalchemy.orm import sessionmaker
-import random
-from datetime import datetime
-from sqlalchemy.orm import sessionmaker
-from sqlalchemy import create_engine
+
 
 Base = declarative_base()
 
